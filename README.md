@@ -21,13 +21,13 @@
       }
       .row.content {height: auto;} 
     }
-	  .footer {
+footer {
   width: 100%;
   display: inline-block;
   margin: 4em 0;
   height: 400px;
   background-color: #f2c063;
-	  .copyright {
+copyright {
    width: 100%;
   display: inline-block;
   margin: 4em 0;
