@@ -11,7 +11,7 @@
     
     .sidenav {
       background-color: #c9c2af;
-      height: 100%;
+      height: 2400px;
     }
       
     @media screen and (max-width: 767px) {
@@ -28,7 +28,7 @@
   height: 400px;
   background-color: #f2c063;
   .copyright {
-    width: 80%;
+    width: 100%;
     float: left;
     @media (max-width: 600px) {
       width: 100%;
