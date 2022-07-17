@@ -25,10 +25,10 @@
   width: 100%;
   display: inline-block;
   margin: 2em 0;
-  height: 700px;
+  height: 400px;
   background-color: #f2c063;
   .copyright {
-    width: 50%;
+    width: 80%;
     float: left;
     @media (max-width: 600px) {
       width: 100%;
