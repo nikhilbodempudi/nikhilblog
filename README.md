@@ -194,6 +194,4 @@ Virat Kohli is one such man who will never stop astonishing the crowd. I guess w
 	                    	&copy; Blog by <a>NIKHIL BODEMPUDI</a>
 	                  
 	           		</div>
-	        	</div>
-	        </div>
-    
+	        
