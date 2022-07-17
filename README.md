@@ -1,1 +1,222 @@
-I created a simple blog page of my favorite cricketer 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Nikhil's Blog</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+    .row.content {height: 2523px}
+    
+    .sidenav {
+      background-color: #c9c2af;
+      height: 100%;
+    }
+    
+   .footer-top { padding: 60px 0; background: #333; text-align: left; color: #aaa; }
+.footer-top h3 { padding-bottom: 10px; color: #fff; }
+
+.footer-about img.logo-footer { max-width: 74px; margin-top: 0; margin-bottom: 18px; }
+.footer-about p a { border: 0; }
+.footer-about p a:hover, .footer-about p a:focus { border: 0; }
+
+.footer-contact p { word-wrap: break-word; }
+.footer-contact i { padding-right: 10px; font-size: 18px; color: #666; }
+.footer-contact p a { border: 0; }
+.footer-contact p a:hover, .footer-contact p a:focus { border: 0; }
+
+.footer-links a { color: #aaa; border: 0; }
+.footer-links a:hover, .footer-links a:focus { color: #fff; }
+
+.footer-bottom { padding: 15px 0 17px 0; background: #444; text-align: left; color: #aaa; }
+
+.footer-social { padding-top: 3px; text-align: right; }
+.footer-social a { margin-left: 20px; color: #777; border: 0; }
+.footer-social a:hover, .footer-social a:focus { color: #79a05f; border: 0; }
+.footer-social i { font-size: 24px; vertical-align: middle; }
+
+.footer-copyright { padding-top: 5px; }
+.footer-copyright a { color: #fff; border: 0; }
+.footer-copyright a:hover, .footer-copyright a:focus { color: #aaa; border: 0; }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height: auto;} 
+    }
+  </style>
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row content">
+    <div class="col-sm-3 sidenav">
+      <h4>Nikhil's Blog</h4>
+      <ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href="#section1">Home</a></li>
+        
+      </ul><br>
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Search Blog..">
+        <span class="input-group-btn">
+          <button class="btn btn-default" type="button">
+            <span class="glyphicon glyphicon-search"></span>
+          </button>
+        </span>
+      </div>
+    </div>
+
+    <div class="col-sm-9">
+      <h4><small>RECENT POSTS</small></h4>
+      <hr>
+      <h1><b>KING KOHLI</b></h1>
+      <h5><span class="glyphicon glyphicon-time"></span> Post by Nikhil Bodempudi, July 13, 2022.</h5>
+      <h5><span class="label label-danger">Cricket</span> <span class="label label-primary">sports</span></h5><br>
+<img src="king.jpg"  width="500" height="445"><br><br>
+
+      <p>A familiar name in most Indian households and a name of wonder worldwide- Virat Kohli is that cricketer who has worked hard, paved and earned his way. Born on 5 November 1988, this famous personality is the current captain of the Indian National Cricket Team. Currently, he’s within the top 5 ranks across all ICC batting ranks (Test- 5, ODI– 2, T20I– 5). For a boy who was only three when he first picked up a bat, look how far he has come today!
+
+Let us briefly look at the expanse of his career and how he became one of the most successful batsmen of today’s times.
+
+<br><br>
+<h2>Virat Kohli’s Early Struggles</h2>
+Captain Kohli didn’t always have it easy in life. Having lost his father at a young age, he solely focused on cricket soon after completing his 12th and didn’t let any hardships overcome the immense passion he held for the sport of cricket. He is one man who set new records for himself because the previous records weren’t high enough for him. With numerous commemorations and wins stacked under the power of his bat, he is one of a kind. He is a right-handed top-order batsman, usually coming in at the third wicket.
+
+Kohli started his run by playing for the Delhi Under-15 team in October 2002. Virat Kohli was the leading run-scorer for his team in that tournament, with 172 runs at an average of 34.40.
+
+The Delhi Under-17 team selected him for the 2003–04 Vijay Merchant Trophy in the latter half of 2004. He scored 470 runs in four matches at an average of 117.50 with two hundred and a top score of 251*. His team went on to win, with him being the leading run-scorer.
+
+<br><br>
+<h2>Strong Performance in Junior Cricket
+</h2>
+In July 2006, the India Under-19 squad selected Virat Kohli on its tour of England. His average was 105 in the three-match ODI series against England Under-19s. India Under-19 went on to win both the series (ODI and Test). After the tour, the India Under-19 coach was impressed with Kohli and said, “Kohli showed strong technical skills against both pace and spin.” 
+
+His rise to fame occurred when he captained India’s World Cup Under-19 side in Malaysia in 2008, which they were victorious in. The IPL franchise in 2008 immediately noticed Virat Kohli, and he has since been a part of the Bangalore franchise (Royal Challengers Bangalore). He also became the captain of the team in 2012 and has continued to remain so since then. However, devoid of noteworthy performances in the first edition, his domestic form still won him an India ODI cap on Sri Lanka in the same year.
+
+<br><br>
+<h2>Starts To Be Addressed as King Kohli<br><br>
+</h2>
+The now King Kohli is known for his aggressive batting skills, which led critics to doubt him initially, but he kept proving them wrong by one smashing innings after another. His first show as a captain arrived when he stepped in for MS Dhoni as a substitute captain in 2014. While his way into the Test side was gradual with a little bit of struggle, he went on a record-breaking spree in ODIs: the Indian record for the fastest to multiples-of-thousand runs in ODIs, culminating in the world record for the fastest to 9000 runs in ODIs. 
+
+<br><br>
+<h3>Jersey no. 18 also has been a recipient of various awards:<br>
+</h3>
+Sir Garfield Sobers Trophy (ICC Cricketer of the Year)- 2017 and 2018<br>
+ICC ODI Player of the Year- 2012, 2017, 2018<br>
+ICC Test Player of the Year- 2018<br>
+Arjuna Award- 2013<br>
+Padma Shri- 2017<br>
+Rajiv Gandhi Khel Ratna- 2018<br>
+In 2020, Virat Kohli was ranked 66th in Forbes list of the Top 100 Highest Paid Athletes of 2020 with estimated earnings of $26 million.<br><br>
+<b>He also holds various records:</b><br>
+Highest career batting average in International T201s<br>
+Fastest to reach 12000 runs in ODIs<br>
+Has the most Player of the Series Award in T20Is<br><br>
+<b>Kohli is known to be an aggressive batsman with intuitive technical skills. He bats with a slightly open-chested stance and a bottom-hand solid grip and has quick footwork. Strong through the mid-wicket and cover region, he is also known for his varied range of shots, batting under immense pace, and his knack for pacing innings.
+
+However, his teammates have praised his confidence, commitment, focus, and work ethic. Kohli is also known to be a “sharp” fielder.</b>
+
+<br><br>
+<h2><b>Virat Kohli – The Best Limited Overs Batsman</b></h2>
+Kohli is regarded as the best limited-overs batsman in the world, especially while chasing. In ODIs, he averages around 69 in matches batting second as opposed to around 51 batting first. Twenty-six of his 43 ODI hundreds have come in run-chases, and he holds the record for most hundreds batting second.
+
+Regarding his impressive record batting second, Kohli has said, “I love the whole situation that comes with chasing. I like the challenge of testing myself, figuring out how to rotate the strike, when to hit a boundary.”
+
+In early 2015, Vivian Richards stated Kohli was “already legendary” in the ODI format, while the famous former Australian cricketer the Late Dean Jones dubbed Kohli the “new king of world cricket.”
+
+Virat Kohli is one such man who will never stop astonishing the crowd. I guess we can anticipate a lot more from him in the coming days. This article is too small to cover all his attributes as a cricketer. However, we can all learn to dream and follow our passions too! 
+<br><br>
+      
+      
+
+      <h4>Leave a Comment:</h4>
+      <form role="form">
+        <div class="form-group">
+          <textarea class="form-control" rows="3" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-success">Submit</button>
+      </form>
+      <br><br>
+      
+      <p><span class="badge">2</span> Comments:</p><br>
+      
+      <div class="row">
+        <div class="col-sm-2 text-center">
+          <img src="ppp.jpg" class="img-circle" height="55" width="95" alt="Avatar">
+        </div>
+        <div class="col-sm-10">
+          <h4>Peddanna<small> july 15, 2022, 9:12 PM</small></h4>
+          <p>I am a great fan of him....Hail king kohli!!</p>
+          <br>
+        </div>
+        <div class="col-sm-2 text-center">
+          <img src="bbob.jpg" class="img-circle" height="65" width="65" alt="Avatar">
+        </div>
+        <div class="col-sm-10">
+          <h4>Bruce clink<small> july 16, 2022, 8:08 PM</small></h4>
+          <p>WOW!! what a story! INSPIRED!! I should start playing too</p>
+          <br>
+          <p><span class="badge">1</span> Comment:</p><br>
+          <div class="row">
+            <div class="col-sm-2 text-center">
+              <img src="birdd.png" class="img-circle" height="65" width="65" alt="Avatar">
+            </div>
+            <div class="col-xs-10">
+              <h4>Valary<small> july 17, 2022, 8:28 PM</small></h4>
+              <p>Me too! WOW!</p>
+              <br>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+ <footer>
+        	<div class="footer-top">
+		        <div class="container">
+		        	<div class="row">
+		        		<div class="col-md-3 footer-about wow fadeInUp">
+<h3>About Me</h3>
+		        			<p>
+		        				Hi! I am Nikhil Bodempudi from India. I'm a graduate student in NEC.I'm not here to compete but learn and experience the journey called life.
+		        			</p>
+	                    </div>
+		        		<div class="col-md-4 ">
+		        			<h3>Address</h3>
+		                	<p> 244 Manning blvd, Albany, NY</p>
+		     
+	                    </div>
+	                 
+	                    	<div class="row">
+	                    		<div class="col-md-5">
+	                    			<h3>Hey, Reach me out at</h3>
+		                	<p> 244 Manning blvd, Albany, NY</p>
+		                	<p> Phone: (838)900-1795</p>
+		                	<p> Email: <a href="mailto:bodempudi.nikhil99@gmail.com">bodempudi.nikhil99@gmail.com</a></p>
+	                    		</div>
+	                    		                    	</div>
+	                    </div>
+		            </div>
+		        </div>
+	        </div>
+	        <div class="footer-bottom">
+	        	<div class="container">
+	        		<div class="row">
+	           			<div class="col-md-6 footer-copyright">
+	                    	&copy; Blog by <a>NIKHIL BODEMPUDI</a>
+	                  
+	           		</div>
+	        	</div>
+	        </div>
+        </footer>
+
+
+</body>
+</html>
