@@ -10,7 +10,7 @@
     .row.content {height: 4000px}
     
     .sidenav {
-      background-color: #c9c2af;
+      background-color: #a9a3c9;
       height: 2400px;
     }
       
