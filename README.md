@@ -28,11 +28,11 @@
   height: 400px;
   background-color: #f2c063;
   .copyright {
-    width: 100%;
+   width: 100%;
   display: inline-block;
   margin: 4em 0;
-  height: 400px;
-  background-color: #f2c063;
+  height: 100px;
+  background-color: #dbbac0;
     float: left;
     @media (max-width: 600px) {
       width: 100%;
@@ -195,7 +195,7 @@ Virat Kohli is one such man who will never stop astonishing the crowd. I guess w
 	        <div class="copyright">
 	        	
 	        		
-	                    	&copy; Blog by <a>NIKHIL BODEMPUDI</a>
+	                    	&copy; Blog by <a>NtIKHIL BODEMPUDI</a>
 	                  
 	           		</div>
 	        
