@@ -15,7 +15,7 @@
       height: 100%;
     }
     
-   .footer-top { padding: 60px 0; background: #333; text-align: left; color: #aaa; }
+.footer-top { padding: 60px 0; background: #333; text-align: left; color: #aaa; }
 .footer-top h3 { padding-bottom: 10px; color: #fff; }
 
 .footer-about img.logo-footer { max-width: 74px; margin-top: 0; margin-bottom: 18px; }
