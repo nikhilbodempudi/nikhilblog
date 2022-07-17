@@ -21,7 +21,18 @@
       }
       .row.content {height: auto;} 
     }
-	  
+  footer {
+  width: 100%;
+  display: inline-block;
+  margin: 2em 0;
+  height: 70px;
+  background-color: #999;
+  .copyright {
+    width: 50%;
+    float: left;
+    @media (max-width: 600px) {
+      width: 100%;
+    }
   </style>
 </head>
 <body>
