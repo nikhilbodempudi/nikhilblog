@@ -13,32 +13,7 @@
       background-color: #c9c2af;
       height: 100%;
     }
-    
-.footer-top { padding: 160px 0; background: #333; text-align: left; color: #aaa; }
-.footer-top h3 { padding-bottom: 10px; color: #fff; }
-
-.footer-about p a { border: 0; }
-.footer-about p a:hover, .footer-about p a:focus { border: 0; }
-
-.footer-contact p { word-wrap: break-word; }
-.footer-contact i { padding-right: 10px; font-size: 18px; color: #666; }
-.footer-contact p a { border: 0; }
-.footer-contact p a:hover, .footer-contact p a:focus { border: 0; }
-
-.footer-links a { color: #aaa; border: 0; }
-.footer-links a:hover, .footer-links a:focus { color: #fff; }
-
-.footer-bottom { padding: 15px 0 17px 0; background: #444; text-align: left; color: #aaa; }
-
-.footer-social { padding-top: 3px; text-align: right; }
-.footer-social a { margin-left: 20px; color: #777; border: 0; }
-.footer-social a:hover, .footer-social a:focus { color: #79a05f; border: 0; }
-.footer-social i { font-size: 24px; vertical-align: middle; }
-
-.footer-copyright { padding-top: 5px; }
-.footer-copyright a { color: #fff; border: 0; }
-.footer-copyright a:hover, .footer-copyright a:focus { color: #aaa; border: 0; }
-    
+      
     /* On small screens, set height to 'auto' for sidenav and grid */
     @media screen and (max-width: 767px) {
       .sidenav {
@@ -47,6 +22,7 @@
       }
       .row.content {height: auto;} 
     }
+	  
   </style>
 </head>
 <body>
