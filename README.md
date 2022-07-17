@@ -1,4 +1,5 @@
-
+<html lang="en">
+<head>
   <title>Nikhil's Blog</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,11 +24,15 @@
   footer {
   width: 100%;
   display: inline-block;
-  margin: 4em 2;
+  margin: 4em 0;
   height: 400px;
   background-color: #f2c063;
   .copyright {
     width: 100%;
+  display: inline-block;
+  margin: 4em 0;
+  height: 400px;
+  background-color: #f2c063;
     float: left;
     @media (max-width: 600px) {
       width: 100%;
