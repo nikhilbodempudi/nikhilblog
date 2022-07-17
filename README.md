@@ -25,7 +25,7 @@
   width: 100%;
   display: inline-block;
   margin: 2em 0;
-  height: 70px;
+  height: 200px;
   background-color: #999;
   .copyright {
     width: 50%;
