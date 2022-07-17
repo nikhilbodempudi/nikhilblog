@@ -25,8 +25,8 @@
   width: 100%;
   display: inline-block;
   margin: 2em 0;
-  height: 200px;
-  background-color: #999;
+  height: 700px;
+  background-color: #f2c063;
   .copyright {
     width: 50%;
     float: left;
