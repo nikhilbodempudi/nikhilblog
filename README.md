@@ -24,7 +24,7 @@
   footer {
   width: 100%;
   display: inline-block;
-  margin: 2em 0;
+  margin: 4em 2;
   height: 400px;
   background-color: #f2c063;
   .copyright {
