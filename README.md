@@ -183,22 +183,17 @@ Virat Kohli is one such man who will never stop astonishing the crowd. I guess w
 		                	<p> Phone: (838)900-1795</p>
 		                	<p> Email: <a href="mailto:bodempudi.nikhil99@gmail.com">bodempudi.nikhil99@gmail.com</a></p>
 	                    		</div>
-	                    		                    	</div>
+	                    		             </div>
 	                    </div>
 		            </div>
 		        </div>
 	       
-	        <div class="footer-bottom">
-	        	<div class="container">
-	        		<div class="row">
-	           			<div class="col-md-6 footer-copyright">
+	        <div class="copyright">
+	        	
+	        		
 	                    	&copy; Blog by <a>NIKHIL BODEMPUDI</a>
 	                  
 	           		</div>
 	        	</div>
 	        </div>
-        </footer>
-
-
-</body>
-</html>
+    
